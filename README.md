@@ -10,6 +10,7 @@ This repository contains a collection of machine learning projects, ranging from
   - [Movie Recommendation System Using Machine Learning](#movie-recommendation-system-using-machine-learning)
   - [Dataset Preprocessing Tool](#dataset-preprocessing-tool)
   - [Heart Disease Prediction](#heart-disease-prediction)
+  - [AI_Chatbot_Using_OpenAI_Streamlit](#AI_Chatbot_Using_OpenAI_Streamlit)
   - [Mini ML Projects](#mini-ml-projects)
   - [Real-Time Object Detection](#real-time-object-detection)
 - [How to Use](#how-to-use)
